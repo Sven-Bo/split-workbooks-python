@@ -1,0 +1,25 @@
+
+# Split Excel Data into Multiple Files by Column Values using Python (fast & easy)
+
+This tutorial will show you how to separate Excel Data into Workbooks by Column Values. Instead of VBA, we will be using Python and the Pandas Library. The Python code from this tutorial can be a huge time saver. You can apply the code from this tutorial also any other Excel – you just need to tweak it slightly.
+
+
+## Video Tutorial
+
+[![YouTube Video](https://img.youtube.com/vi/NWD2LSSuyjE/0.jpg)](https://youtu.be/NWD2LSSuyjE)
+
+
+## Author
+
+- Sven from Coding Is Fun
+- YouTube: https://youtube.com/c/CodingIsFun
+- Website: https://pythonandvba.com
+
+
+## Feedback
+
+If you have any feedback, please reach out to me at contact@pythonandvba.com
+
+
+![Logo](https://content.screencast.com/users/jubbel3/folders/Snagit/media/c42ea34b-4057-4754-96b0-e8e05c866afb/08.18.2021-19.56.png)
+
