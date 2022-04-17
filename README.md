@@ -8,6 +8,9 @@ This tutorial will show you how to separate Excel Data into Workbooks by Column 
 
 [![YouTube Video](https://img.youtube.com/vi/NWD2LSSuyjE/0.jpg)](https://youtu.be/NWD2LSSuyjE)
 
+## Changes after releasing the video
+- [x] [Enhance] Use pathlib to handle file path locations & to create output directory
+- [x] [Bug Fix] Use `fullmatch` instead of `contains` (To prevent partial match, e.g. 'romania' and 'oman')
 
 ## Author
 
